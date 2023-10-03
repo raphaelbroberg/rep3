@@ -1,0 +1,37 @@
+.class2{
+    font-size: 100px;
+}
+
+body{
+    background-color: rgb(187, 188, 255);
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    /* display: inline-block; */
+    outline: 10px dashed yellow;
+    border: 3px solid red;
+    outline-offset: 10px;
+    margin: 50px;
+}
+
+.div1{
+    background-color: rgba(100, 130, 230, 0.7);
+    /* opacity: 0.7; */
+}
+.div2{
+    background-color: rgb(166, 243, 192);
+}
+.div3{
+    background-color: rgb(247, 251, 166);
+}
+.div4{
+    background-color: rgb(255, 201, 201);
+    overflow: auto;
+}
+p{
+    color: orangered;
+    font-size: 20px;
+    text-shadow: 10px 10px 10px orangered;
+}
